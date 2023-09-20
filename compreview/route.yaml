@@ -8,7 +8,7 @@ metadata:
     name: hello-app
   namespace: compreview-install
 spec:
-  host: hello-app.apps.ocp4.example.com
+  host: hello-app.apps.acm.treinamento.prf
   subdomain: ''
   to:
     kind: Service
